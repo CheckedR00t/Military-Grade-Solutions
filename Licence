@@ -1,0 +1,85 @@
+Copyright © 2026 Hasse Cyber Security
+
+Preamble
+
+Hasse Cyber Security has released this licence to promote collaboration among hardware designers and to provide a legal tool for the dissemination of hardware designs.
+
+The Hasse Cyber Security Open Hardware Licence Version 2 – Permissive is intended to maximise the ability of individuals, researchers, companies, and manufacturers to use hardware designs, including commercial applications, with minimal obligations.
+
+This licence is focused on the design itself and on ensuring proper credit while allowing others to build, improve, manufacture, and distribute the design.
+
+Terms and Conditions
+
+Definitions
+
+“Design” means the design documentation for hardware licensed under this Licence, in any format or medium.
+
+“Documentation” means all materials describing the Design, including schematics, netlists, PCB layout files, bills of materials, drawings, specifications, firmware interfaces, and related materials.
+
+“Hardware” means any physical device embodying the Design or any part thereof.
+
+“Modification” means any change, improvement, adaptation, or derivative of the Design.
+
+“Product” means any hardware, assembly, or commercial item based wholly or partly on the Design.
+
+“Source” means the preferred form of the Design for making Modifications.
+
+“Licence” means this Hasse Cyber Security Open Hardware Licence Version 2 – Permissive.
+
+“Licensor” means Hasse Cyber Security.
+
+“You” means any person or entity exercising rights under this Licence.
+
+Grant of Rights
+
+The Licensor grants You a worldwide, royalty-free, perpetual, non-exclusive licence to:
+
+a) use the Design and Documentation;
+b) study and modify the Design;
+c) copy and distribute the Design;
+d) manufacture Hardware implementing the Design;
+e) sell Products based on the Design;
+f) sublicense Products incorporating the Design;
+g) otherwise deal in the Design without restriction,
+
+subject to the conditions below.
+
+Conditions
+
+3.1 Attribution
+
+You must retain all copyright notices and acknowledge Hasse Cyber Security as the original source of the Design.
+
+3.2 Source Availability
+
+If distributing modified Design files, You must provide them in Source format.
+
+3.3 Modification Notice
+
+Modified versions must clearly state changes made and identify the modifier.
+
+3.4 No Endorsement
+
+Use of the Design does not imply endorsement by Hasse Cyber Security.
+
+Warranty Disclaimer
+
+THE DESIGN AND DOCUMENTATION ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, HASSE CYBER SECURITY SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE DESIGN OR PRODUCTS BASED ON IT.
+
+Termination
+
+Rights under this Licence terminate automatically if You materially violate its terms.
+
+Governing Law
+
+This Licence shall be governed by applicable international commercial law principles and, where required, the jurisdiction chosen by Hasse Cyber Security.
+
+Open Use Intent
+
+Commercial use, private use, research use, military use, educational use, and manufacturing use are permitted unless prohibited by applicable law.
+
+© 2026 Hasse Cyber Security. All rights reserved except as expressly granted herein.
