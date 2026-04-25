@@ -1,6 +1,6 @@
 
 
-# 🛡️ Hasse Cyber Security — Open Source Pulse Linear Frequency Modulated Phased Array Radar
+# — Open Source Pulse Linear Frequency Modulated Phased Array Radar
 
 Hardware License: CERN-OHL-P (Strongly Recommended)
 Software License:Surafel
@@ -14,7 +14,7 @@ Contribution: Pull Requests Welcome
 
 The Hasse Cyber Security Radar Platform is an open-source, low-cost 10.5 GHz phased array radar system based on Pulse Linear Frequency Modulated (LFM) modulation.
 
-It is designed and developed under the Hasse Cyber Security research initiative to explore advanced RF sensing, radar signal processing, and cybersecurity-aware detection systems.
+It is designed and developed under the research initiative to explore advanced RF sensing, radar signal processing, and cybersecurity-aware detection systems.
 
 The platform is available in two configurations:
 
@@ -198,7 +198,7 @@ To maintain a clean and production-grade repository:
 
 ## ⚠️ Project Status
 
-This is an Alpha-stage research platform under active development by Hasse Cyber Security.
+This is an Alpha-stage research platform under active development by Surafel.
 
 Expect frequent updates, architectural changes, and experimental features.
 
