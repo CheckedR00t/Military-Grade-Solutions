@@ -12,7 +12,7 @@ Contribution: Pull Requests Welcome
 
 ## 📡 Overview
 
-The Hasse Cyber Security Radar Platform is an open-source, low-cost 10.5 GHz phased array radar system based on Pulse Linear Frequency Modulated (LFM) modulation.
+ Radar Platform is an open-source, low-cost 10.5 GHz phased array radar system based on Pulse Linear Frequency Modulated (LFM) modulation.
 
 It is designed and developed under the research initiative to explore advanced RF sensing, radar signal processing, and cybersecurity-aware detection systems.
 
